@@ -247,7 +247,7 @@ Some of the commonly used built-in modules are:
 - JSON
 
 #### What is type conversion in Python?
-Ans: Type conversion refers to the conversion of one data type iinto another.
+Type conversion refers to the conversion of one data type iinto another.
 
 int() – converts any data type into integer type
 
