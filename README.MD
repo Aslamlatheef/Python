@@ -234,6 +234,44 @@ Dogpile effect is referred to the event when cache expires, and websites are hit
 - Code is another option to minimize server outages as it gives you the liberty to change the Memcached server list with minimal work
 - Setting timeout value is another option that some Memcached clients implement for Memcached server outage. When your Memcached server goes down, the client will keep trying to send a request till the time-out limit is reached
 
+####  What are python modules? Name some commonly used built-in modules in Python?
+Python modules are files containing Python code. This code can either be functions classes or variables. A Python module is a .py file containing executable code.
+
+Some of the commonly used built-in modules are:
+
+- os
+- sys
+- math
+- random
+- data time
+- JSON
+
+#### What is type conversion in Python?
+Ans: Type conversion refers to the conversion of one data type iinto another.
+
+int() – converts any data type into integer type
+
+float() – converts any data type into float type
+
+ord() – converts characters into integer
+
+hex() – converts integers to hexadecimal
+
+oct() – converts integer to octal
+
+tuple() – This function is used to convert to a tuple.
+
+set() – This function returns the type after converting to set.
+
+list() – This function is used to convert any data type to a list type.
+
+dict() – This function is used to convert a tuple of order (key,value) into a dictionary.
+
+str() – Used to convert integer into a string.
+
+complex(real,imag) – This functionconverts real numbers to complex(real,imag) number.
+
+
 
 
 
