@@ -271,8 +271,19 @@ str() – Used to convert integer into a string.
 
 complex(real,imag) – This functionconverts real numbers to complex(real,imag) number.
 
+#### What are the built-in types of python?
+Built-in types in Python are as follows –
 
+- Integers
+- Floating-point
+- Complex numbers
+- Strings
+- Boolean
+- Built-in functions
 
+#### Define encapsulation in Python?
+Encapsulation means binding the code and the data together. A Python class in an example of encapsulation.
 
-
+####  What is Polymorphism in Python?
+Polymorphism means the ability to take multiple forms. So, for instance, if the parent class has a method named ABC then the child class also can have a method with the same name ABC having its own parameters and variables. Python allows polymorphism.
 
